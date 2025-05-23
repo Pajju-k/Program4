@@ -44,5 +44,9 @@ public class OnlineRegistration {
         Student s = new Student();
         s.displayInfo();
         s.displayLowMarks();
+        System.out.println("This is after merged line");
+        System.out.println("This is in master branch");
+
+    
     }
 }
